@@ -1,0 +1,6 @@
+npm init
+//crea los paquetes necesarios para hacer gestionar el proyecto
+npm install "alguna libreria aqui"
+//si hay un package.json dentro de la carpeta donde se encuntre entonces 
+//creara el siguiente paquete package-lock.json donde se encuentra las dependencias del proyecto
+//si existe una dependencia de una libreria este mismo se instalara tambien 

@@ -1,0 +1,14 @@
+{
+  "name": "paquetespractica",
+  "version": "1.0.0",
+  "description": "esto es una clase de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Gonzalo",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
